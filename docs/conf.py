@@ -18,9 +18,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Covid_data'
-copyright = '2021, Lucas Buk Cardoso, Vanderlei Cunha Parro'
-author = 'Lucas Buk'
+project = 'IMT Epidemic Models'
+copyright = '2021, V.C.Parro, M.L.M.Lafetá, F. Pait, F.B.Ipólito, T.N.Toporcov'
+author = 'V.C.Parro, M.L.M.Lafetá, F. Pait, F.B.Ipólito, T.N.Toporcov'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
@@ -53,8 +53,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.ipynb_checkpoints']
 #
 html_theme = 'sphinx_rtd_theme'
 
-html_title = 'Covid Data from Brazil Documentation'
-html_short_title = 'Covid Data'
+html_title = 'Predicting COVID-19 in very large countries: the case of Brazil'
+html_short_title = 'Predicting COVID-19 in very large countries'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
