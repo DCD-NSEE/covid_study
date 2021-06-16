@@ -1,0 +1,6 @@
+nbsphinx
+pandas
+matplotlib
+numpy
+ipython
+ipykernel
