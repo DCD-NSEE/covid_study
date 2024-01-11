@@ -1,2 +1,2 @@
-# Covid_data
- Repository for the first treatment of Covid-19 data from Brazil
+# Covid-19 Study
+ Repository for studying Covid-19 cases in Brazil, especially using the SIR model.
