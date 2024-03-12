@@ -148,12 +148,12 @@ Se você tiver dúvidas ou precisar de assistência, sinta-se à vontade para en
 
 Enviar email para [Pedro Mesquita](mailto:pedro.gjmesquita@gmail.com), para [Lucas Buk](maailto:lucasbukcardoso@gmail.com) ou diretamente para o [NSEE](mailto:nsee@maua.br)
 
-## **Authors**
+## **Authors/Autores**
 
 * Mathieu Sin Lee Sou - École des Mines de Saint-Étienne
-* Lucas Buk Cardoso - Instituto Mauá de Tecnologia
-* Vanderlei Cunha Parro - Instituto Mauá de Tecnologia
+* [Lucas Buk Cardoso](https://www.linkedin.com/in/lucas-buk-cardoso-b52189294/) - [Instituto Mauá de Tecnologia](https://www.maua.br/)
+* [Vanderlei Cunha Parro](https://www.linkedin.com/in/vparro/) - [Instituto Mauá de Tecnologia](https://www.maua.br/)
 
-## **Paper**
+## **Paper/Publicação**
 
 Previous study for Covid-19 in Brazil on the [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253146).
